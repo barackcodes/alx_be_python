@@ -18,3 +18,7 @@ else:
     reminder += " Consider completing it when you have free time."
 
 print(f"\nReminder: {reminder}")
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0eebfcb6889094d3159215aff04f096aa8ce59f1
